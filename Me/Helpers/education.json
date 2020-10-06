@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "function": "Student Engineer",
+    "startDate": "01-09-2013",
+    "endDate": "30-06-2016",
+    "speciality": "Applied Computer Science",
+    "school": {
+      "name": "National School of Engineering of Sousse",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_ENISo%2C_Tunisie.svg/1058px-Logo_ENISo%2C_Tunisie.svg.png",
+      "phoneNumber": "",
+      "webSite": "http://www.eniso.rnu.tn/fr/",
+      "locationOnMap": "https://goo.gl/maps/xzghF8b7eLBEmF7J6",
+      "location": "Sousse, Tunisia"
+    },
+    "academicProject": [
+      {
+        "id": 1,
+        "name": "Touristic guide",
+        "description": "Developing a hybrid application using IBM Worklight (HTML5, CSS3, Javascript, JQuery, JSONStore, Apache cordova)."
+      },
+      {
+        "id": 2,
+        "name": "Chess",
+        "description": "Developing a web application using AngularJS, web SQL, Bootstrap, CSS3 and HTML5."
+      },
+      {
+        "id": 3,
+        "name": "Robot guide",
+        "description": "Developing an ASP.Net application to control a robot using STM32F4, C, C# and ASP.Net"
+      },
+      {
+        "id": 4,
+        "name": "Rent Car",
+        "description": "Developing a web application to rend cars using C#, ASP.Net, Entity framework code first."
+      },
+      {
+        "id": 5,
+        "name": "Labyrinthe Robot",
+        "description": "Creating and Programming a robot using STM32F4 card and C"
+      }
+    ],
+    "training": []
+  },
+  {
+    "id": 2,
+    "function": "Student",
+    "startDate": "01-09-2010",
+    "endDate": "30-06-2013",
+    "speciality": "Preparatory cycle: Mathematics and Physics",
+    "school": {
+      "name": "Higher Institute of Applied Science and Technology of Mahdia",
+      "logo": "http://www.um.rnu.tn/media/3513/logo-issat-mahdia.png?anchor=center&mode=crop&rnd=132177052560000000",
+      "phoneNumber": "",
+      "webSite": "http://www.issatmh.rnu.tn/eng/home",
+      "locationOnMap": "https://goo.gl/maps/dLrJeCjMP7pCjo2r8",
+      "location": "Mahdia, Tunisia"
+    },
+    "academicProject": [],
+    "training": []
+  },
+  {
+    "id": 3,
+    "function": "Bachelor",
+    "startDate": "01-09-2009",
+    "endDate": "30-06-2010",
+    "speciality": "Mathematics",
+    "school": {
+      "name": "College Ouled Chamekh",
+      "logo": "",
+      "webSite": "",
+      "locationOnMap": "https://goo.gl/maps/vASNUntAEdEDhB2y9",
+      "location": "Mahdia, Tunisia"
+    },
+    "academicProject": [],
+    "training": []
+  }
+]

@@ -1,0 +1,31 @@
+{
+    "name": "Sihem MOHAMED",
+    "function": "Senior iOS Developer",
+    "phoneNumber": "+21626794418",
+    "email": "sihem.mohamed14@gmail.com",
+    "address": "03 Mokhtar Attia Street Ain Zaghouan, Tunis 2046, Tunisia",
+    "numberOfExperience": "4 years",
+    "linkedin": "https://linkedin.com/in/sihem-mohamed",
+    "github": "https://github.com/SihemMED",
+    "summary": [{
+        "value":"About 4 years of mobile development experience in architecture, design, development, testing and deployment of iOS applications."
+    },
+    {
+        "value":"Experience in developing ionic and react native applications."
+    },
+    {
+        "value":"Excellent knowledge in core concepts like Object Oriented Programming, Protocol Oriented Programming, Memory Management, Persistent Data and Data Structures, Dependency Injection, MVC pattern, MVC-Coordinator pattern and MVVM pattern,..."
+    },
+    {
+        "value":"Experience in working with third party libraries and frameworks such as AFNetworking, Alamofire, Moya, IOS-DFU-Library, Charts, Social media SDK(Facebook SDK, Twitter SDK, Weibo SDK, WeChat SDK), Crashlytics... and integrating them with CocoaPods and Swift Packaging."
+    },
+    {
+        "value":"Good knowledge of GCD, Closures, Operation Queue, CoreLocation, CoreBluetooth, CoreData, CoreGraphics,..."
+    },
+    {
+        "value":"Experience in writing Unit Testing cases using XCTest and Cuckoo."
+    },
+    {
+        "value":"Good knowledge of App distribution and provisioning on Apple developer portal."
+    }]
+}

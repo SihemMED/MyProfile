@@ -1,0 +1,239 @@
+[
+    {
+        "id": 1,
+        "function": "Senior iOS Developer",
+        "startDate": "07-07-2019",
+        "endDate": "",
+        "company": {
+            "name": "Sofrecom Tunisia",
+            "logo": "https://www.sofrecom.com/assets/sofrecom_logo-fe0e3054fcb3f13ee4619010c6e93126aba74a441960b8abae334aa45d2975ab.jpg",
+            "phoneNumber": "",
+            "webSite": "https://www.sofrecom.com/",
+            "locationOnMap": "https://goo.gl/maps/gsVWodVc15VtkbCr7",
+            "location": "Tunis, Tunisia"
+        },
+        "job": {
+            "description": [
+                {
+                    "value":"Participating in the development of e-government and e-health applications."
+                },
+                {
+                    "value":"Writing effective unit tests."
+                },
+                {
+                    "value":"Participating in the preparation of an estimation for a mobile application for a tender."
+                },
+                {
+                    "value":"Support and streamline company policies, procedures, mission, and standards of ethics and integrity."
+                },
+            ],
+            "keyAchievement": [{
+                "value":"Developing an urgent application within one week to help crowded stores managing the queues in the curfew."
+            }],
+            "tools": "xCode, Swift5, Bitbucket, Jira, Restful web services, Third party libraries like Moya, Alamofire, XCTest, Cuckoo,.."
+        },
+        "applications": [
+            {
+                "id": 1,
+                "name": "Dawrak",
+                "url": "https://apps.apple.com/us/app/dawrak/id1505222538",
+                "logo": "https://lh3.googleusercontent.com/hFIyseoq8SBUqMDRtPtg5hNOraAY2xFidBHewItkYe0RJDsZ7iNqLb0ersRNg50E1444=s360-rw",
+                "description": "helps crowded stores to manage queues and to organize wait areas by sending a notification to the user when it is time to pick up the order or to come into the store."
+            },
+            {
+                "id": 2,
+                "name": "Muqeem",
+                "url": "https://apps.apple.com/us/app/muqeem/id1463292590",
+                "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/d2/5a/5cd25ab5-f78c-083d-c5de-7ac3c9bfb8f0/source/200x200bb.jpg",
+                "description": "allows organizations to review its resident workers data and complete their transactions online."
+            }
+        ],
+        "platforms": "iOS",
+        "type":"Professional"
+    },
+    {
+        "id": 2,
+        "function": "iOS Developer",
+        "startDate": "01-09-2016",
+        "endDate": "30-06-2019",
+        "company": {
+            "name": "Continuous Net",
+            "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFV3LCDKseK6g/company-logo_200_200/0?e=2159024400&v=beta&t=l49J76Fkw6fTs3Cdvd43YHnQSk-CA5XlwxGLhK-Anvg",
+            "phoneNumber": "",
+            "webSite": "https://continuousnet.com/",
+            "locationOnMap": "https://goo.gl/maps/HGEMkgdPf7xHW7zK8",
+            "location": "Sousse, Tunisia"
+        },
+        "job": {
+            "description": [
+                {
+                    "value":"Building and publishing iOS and macOS applications on App Store."
+                },
+                {
+                    "value":"Writing Unit Tests for iOS applications."
+                },
+                {
+                    "value":"Migrate Swift Code to earlier Swift version and migrate Objective C code to Swift code."
+                },
+                {
+                    "value":"Migrate Ionic Code (from Ionic 1 to Ionic 3)."
+                },
+                {
+                    "value":"Conception and developing iOS applications that communicate with intelligent insoles using Bluetooth low energy."
+                },
+                {
+                    "value":"Conception and developing e-health application that communicates with medical device via Bluetooth low energy and synchronizing data with the server through Restful API."
+                },
+                {
+                    "value":"Review client requirements, wireframes, and designs for technical feasibility."
+                },
+                {
+                    "value":"Conception and developing react native application: social network application."
+                },
+                {
+                    "value":"Developing ionic applications: prototype application for internal use."
+                },
+                {
+                    "value":"Support published applications."
+                },
+                {
+                    "value":"Participating in brainstorming meetings."
+                },
+                {
+                    "value":"Integrating PSD templates to HTML5 and CSS3."
+                },
+            ],
+            "keyAchievement": [{
+                "value":"Lead a group of interns through coaching and guiding team members within area of expertise."
+            }],
+            "tools": "xCode, Swift 2/3/4, Objective C, WebStorm, Angular/AngularJS, Ionic1/3, Git, Bitbucket, Jira, UIKit, Foundation, Restful web services, CoreBluetooth, CoreData, MapKit, SQLite3, JSON, firebase, firebase CLI, Third party libraries like AFNetworking, Charts, IOS-DFU-Library, Facebook SDK, Twitter SDK, Crashlytics, Weibo SDK, WeChat SDK, QR code, React Native, Redux"
+        },
+        "applications": [
+            {
+                "id": 1,
+                "name": "BiodyManager",
+                "url": "https://apps.apple.com/us/app/biodymanager/id1267779991",
+                "logo": "https://lh3.googleusercontent.com/1ncHNMI7yMelD3mZUUcKjFwT-TbwiDJnM9A3NvYcpFe-36CooBcHdZYAbABYz1A-O_o=s360-rw",
+                "description": "allows health, fitness and wellness professionals to synchronize body measurement data with medical device through Bluetooth."
+            },
+            {
+                "id": 2,
+                "name": "Run Profiler Running",
+                "url": "https://apps.apple.com/us/app/run-profiler-running/id1440603664",
+                "logo": "https://lh3.googleusercontent.com/fySAPOnSftJ6oZ9ftfoS8dNoeeD0L4Kanwh1u5wFkq5g0jW-idn4NXaMNC9wHkMg6KE=s360-rw",
+                "description": "communicates with insoles via Bluetooth and synchronize data through a server in order to measure, analyze and improve athlete’s tuning performance."
+            },
+            {
+                "id": 3,
+                "name": "Run Profiler Cycling",
+                "url": "https://apps.apple.com/us/app/run-profiler-cycling/id1354400224",
+                "logo": "https://lh3.googleusercontent.com/NdkCrtluLgvvUryd6ehSkvQcwHVwnmZa29MjzsMnMNVxFYHadff3ZjugYiAlZre8xEY=s360-rw",
+                "description": "is dedicated to cycling athlete to allow him/her to improve his/her pedaling angles, pedaling balance and to track analysis (speed, power loss, revolution number, distance,...)"
+            },
+            {
+                "id": 4,
+                "name": "Warm Series",
+                "url": "https://apps.apple.com/ca/app/warm-series/id1467177675",
+                "logo": "https://lh3.googleusercontent.com/13GTQ7S25FuRtDPjYQ8NsQ9FHAOaE4U2tUz3AXnuunXSrb7e_2BEpvUMbc3fhk-NFh8N=s360-rw",
+                "description": "connects with a pair of heated insoles in order to keep your feet warm. It allows you to adjust the temperature in your shoes and track your daily activities (covered distance, burned calories, number of steps, ...)"
+            },
+            {
+                "id": 5,
+                "name": "Dakota by ZT",
+                "url": "https://apps.apple.com/us/app/dakota-by-zt/id1459245992",
+                "logo": "https://lh3.googleusercontent.com/tNGsfWakMCphE1Y31-l7ACOQ-6EhauIT5TwQPdmxDkkAFR_TC28fwyBV2Po-ddnxRRNY=s360-rw",
+                "description": "helps companies to improve their employees’ workstation by tracking their postures, analyzing their working activities and monitoring their fatigues using embedded safety shoes. It allows data synchronization via Bluetooth."
+            }
+        ],
+        "platforms": "iOS, macOS",
+        "type":"Professional"
+    },
+    {
+        "id": 3,
+        "function": "macOS Developer",
+        "startDate": "01-02-2016",
+        "endDate": "31-08-2016",
+        "company": {
+            "name": "Continuous Net",
+            "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFV3LCDKseK6g/company-logo_200_200/0?e=2159024400&v=beta&t=l49J76Fkw6fTs3Cdvd43YHnQSk-CA5XlwxGLhK-Anvg",
+            "phoneNumber": "",
+            "webSite": "https://continuousnet.com/",
+            "locationOnMap": "https://goo.gl/maps/HGEMkgdPf7xHW7zK8",
+            "location": "Sousse, Tunisia"
+        },
+        "job": {
+            "description": [
+                {
+                    "value":"Designing and developing macOS application that communicates with medical device via classic Bluetooth and Bluetooth low energy. It sends data to server using Restful API then it analyses data and displays the results."
+                }
+            ],
+            "keyAchievement": [{
+                "value":"Migrate code from Swift 2 to Swift 3."
+            }],
+            "tools": "xCode, Swift2/3, Redmine, Git, ORSSerialPort, SQLite, JSON, RESTful services, Star UML"
+        },
+        "applications": [
+            {
+                "id": 1,
+                "name": "BiodyManager",
+                "url": "https://apps.apple.com/us/app/biodymanager/id1267798554",
+                "logo": "https://lh3.googleusercontent.com/1ncHNMI7yMelD3mZUUcKjFwT-TbwiDJnM9A3NvYcpFe-36CooBcHdZYAbABYz1A-O_o=s360-rw",
+                "description": "allows health, fitness and wellness professionals to synchronize body measurement data with medical device through Bluetooth."
+            }
+        ],
+        "platforms": "macOS",
+        "type":"Internship"
+    },
+    {
+        "id": 4,
+        "function": "Internship",
+        "startDate": "01-07-2015",
+        "endDate": "31-08-2015",
+        "company": {
+            "name": "National School of Engineering of Sousse",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_ENISo%2C_Tunisie.svg/1058px-Logo_ENISo%2C_Tunisie.svg.png",
+            "phoneNumber": "",
+            "webSite": "http://www.eniso.rnu.tn/fr/",
+            "locationOnMap": "https://goo.gl/maps/xzghF8b7eLBEmF7J6",
+            "location": "Sousse, Tunisia"
+        },
+        "job": {
+            "description": [
+                {
+                    "value":"Developing e-health macOS plug-in using Objective C and OsirixAPI."
+                }
+            ],
+            "keyAchievement": [],
+            "tools": ""
+        },
+        "applications": [],
+        "platforms": "macOS",
+        "type":"Internship"
+    },
+    {
+        "id": 5,
+        "function": "Internship",
+        "startDate": "01-07-2014",
+        "endDate": "31-08-2014",
+        "company": {
+            "name": "Educanet Tunisia",
+            "logo": "https://www.educanet.tn/assets/img/educanet.jpg",
+            "phoneNumber": "",
+            "webSite": "https://www.educanet.tn/default.html",
+            "locationOnMap": "https://g.page/Educanet-Tunisie?share",
+            "location": "Sousse, Tunisia"
+        },
+        "job": {
+            "description": [
+                {
+                    "value":"Creating static web sites using HTML5, CSS3 and Javascript. \nTraining with Java projects using Spring MVC."
+                }
+            ],
+            "keyAchievement": [],
+            "tools": ""
+        },
+        "applications": [],
+        "platforms": "Web",
+        "type":"Internship"
+    }
+]

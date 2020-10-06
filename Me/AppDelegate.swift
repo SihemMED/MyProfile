@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Me
 //
-//  Created by Sofrecom2 on 9/27/20.
+//  Created by Sihem MOHAMED on 9/27/20.
 //  Copyright © 2020 Simo. All rights reserved.
 //
 
